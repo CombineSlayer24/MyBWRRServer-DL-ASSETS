@@ -4,3 +4,4 @@ I will either pack them in a VPK format, or a zip format. If I decide to go with
 ## .VPK — drag the .VPK file into Team Fortress 2\tf\custom
 
 ## .ZIP — place "maps" & "materials" from that .ZIP into Team Fortress 2\tf\
+.
