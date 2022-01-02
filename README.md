@@ -1,8 +1,8 @@
-# [MAIN REPOSITORY](https://github.com/CombineSlayer24/MyBWRRServer)
-# How to install the content?
-I will either pack them in a VPK format, or a zip format. If I decide to go with one or another.
+# How to install the content? /// [MAIN REPOSITORY](https://github.com/CombineSlayer24/MyBWRRServer)
+Either choose Option 1 or 2
 
-{TBD ON METHOD}
-## .VPK — drag the .VPK file into Team Fortress 2\tf\custom
+## OPT 1 - .VPK — drag all of the .VPK files from 'custom' into Team Fortress 2\tf\custom
 
-## .ZIP — place "maps" & "materials" from that .ZIP into Team Fortress 2\tf\
+**OR**
+
+## OPT 2 - .instant install — Drag the 'custom' file from here (this repo) into Team Fortress 2\tf
